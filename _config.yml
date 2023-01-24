@@ -3,4 +3,4 @@ description: Architect is a theme for GitHub Pages.
 #show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
-skin: green
+theme_color:  rgb(25,55,71)
