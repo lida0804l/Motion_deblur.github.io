@@ -3,7 +3,7 @@
 <p align="center">
 陳立達 Li Ta Chen
   
-<img src="Images/1_Demonstration.jpg" width="750" height="500">
+<img src="Images/Picture1.png" width="750" height="500">
   
 </p>
 
