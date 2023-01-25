@@ -1,3 +1,3 @@
-# Motion_deblur.github.io
+# Motion_deblur
 
-Test
+陳立達 Li Ta Chen
