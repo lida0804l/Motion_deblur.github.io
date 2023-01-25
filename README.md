@@ -1,8 +1,9 @@
 # Motion deblur
 
+陳立達 Li Ta Chen
+
 <p align="center">
   <br>
-陳立達 Li Ta Chen
   
 | Before      |After        |
 :-------------------------:|:-------------------------:
