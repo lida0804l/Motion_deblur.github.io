@@ -2,6 +2,9 @@
 
 <p align="center">
 陳立達 Li Ta Chen
+  
+<img src="Images/1_Demonstration.jpg.jpg" width="1000" height="1000">
+  
 </p>
 
 | Before      |After        |
