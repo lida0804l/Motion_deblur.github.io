@@ -9,9 +9,9 @@
 # User interface
 Here we have a user interface to perform motion deblur by the following steps:
 
-**Step 1.**       Load image
+**Step 1.** Load image
 <br>
-To click on "file->Open" to load images (.jpg/.bmp/.png/.tif)
+To click on "file->Open" to load    images (.jpg/.bmp/.png/.tif)
 
 <p align="center">
    <br>
