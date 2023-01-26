@@ -48,7 +48,7 @@
 
 <p align="center">
    <br>
-   <img src="Images/6.jpg" width="70%" height="70%">
+   <img src="Images/6_.jpg" width="70%" height="70%">
    <br>
 </p>
 
