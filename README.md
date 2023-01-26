@@ -1,9 +1,4 @@
-
-<p h1 align="center">
-<br>
-    <h1>Restoration of motion blur images</h1>
-<br> 
-</p>
+# Restoration of motion blur images
 
 <p align="center">
    <img src="Images/1_Demonstration.jpg" width="70%" height="70%">
@@ -12,6 +7,9 @@
 <br>
 
 123 rgb(9, 105, 218)
+123
+
+123
 
 <br>
 <h1><strong>Restoration of motion blur images</strong></h1>
