@@ -1,8 +1,6 @@
 # Restoration of motion blur images
 
-<style>p{color:Red;}</style>
-<style>H1{color:Blue;}</style>
-<style>H2{color:Green;}</style>
+	<font color=#FF0000>紅色</font>
 
 <p align="center">
    <br>
