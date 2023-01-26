@@ -74,7 +74,7 @@ Now things going intriguing if we transform the formula of motion imaging into f
    <br>
 </p>
 
-And here let's finish the integration the using euler's formula to simply the expression:
+And here let's finish the integration and using euler's formula to simply the expression:
 
 <p align="center">
    <br>
@@ -88,11 +88,15 @@ And here let's finish the integration the using euler's formula to simply the ex
    <br>
 </p>
 
+We find that in frequency domain, the motion blur image is actually composition of the mulitplication of static image and a mask representing motion blur:
+
 <p align="center">
    <br>
    <img src="Images/9.jpg" width="70%" height="70%">
    <br>
 </p>
+
+Here let's define some notations for the  
 
 <p align="center">
    <br>
