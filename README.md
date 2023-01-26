@@ -39,9 +39,9 @@ In the previous we've finished specifying motion direction, and this step is for
 </p>
 
 # Implementation
-To illustrate the concept of motion deblur, we will go through how the image is generated for static and motion images. <br>
+To illustrate the concept of motion deblur, we will go through how the image is generated for static and motion objects. <br>
 <br>
-**Image acquisition of static object**
+**Image acquisition of static object** <br>
 
 <p align="center">
    <br>
