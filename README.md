@@ -7,6 +7,9 @@
 </p>
 
 # User interface
+Here we have a user interface to perform motion deblur by following the steps:
+
+**Step 1**
 
 <p align="center">
    <br>
