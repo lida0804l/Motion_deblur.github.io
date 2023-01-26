@@ -1,6 +1,7 @@
 # Motion deblur
 <br>
-###### Restoration of motion blur images
+<h1>Restoration of motion blur images</h1>	
+
 
 <p align="center">
   <br>
