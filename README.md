@@ -88,7 +88,7 @@ And here let's finish the integration and using euler's formula to simply the ex
    <br>
 </p>
 
-We find that in frequency domain, the motion blur image is actually composition of the mulitplication of static image and a mask representing motion blur:
+We find that in frequency domain, the motion blur image is actually composition of the mulitplication of static image and a filter representing motion blur:
 
 <p align="center">
    <br>
@@ -96,7 +96,7 @@ We find that in frequency domain, the motion blur image is actually composition 
    <br>
 </p>
 
-Here let's specify a notation to the term of motion blur for notational simplicity:
+Here let's specify a notation to the term of motion blur for notational simplicity, in a ideal situation the static image could be recovered by the division of motion blur image to the motion blur filter:
 
 <p align="center">
    <br>
