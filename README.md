@@ -1,5 +1,4 @@
 
-`rgb(9, 105, 218)`	
 <p h1 align="center">
 <br>
     <h1>Restoration of motion blur images</h1>
@@ -12,6 +11,7 @@
 
 <br>
 
+123 rgb(9, 105, 218)
 
 <br>
 <h1><strong>Restoration of motion blur images</strong></h1>
