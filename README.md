@@ -19,9 +19,9 @@ To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
    <br>
 </p>
 
-**Step 2** 
+**Step 2** Specify motion direction and region of interest
 <br>
-In this stage, we need to assign the both the direction of motion and the region of interest to be proecssed from graph <br>
+In this stage, we need to specify both the direction of motion and the region of interest to be proecssed <br>
 (1) To click on "Edit->Parameter setting->from graph", and draw a line representing motion direction from graph <br>
 (2) To click on "Edit->ROI", and select region of interest from graph (This action was to facilitate processing speed) <br>
 
