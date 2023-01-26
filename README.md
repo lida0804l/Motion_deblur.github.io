@@ -96,7 +96,7 @@ We find that in frequency domain, the motion blur image is actually composition 
    <br>
 </p>
 
-Here let's define some notations for the  
+Here let's specify a notation to the term of motion blur for notational simplicity:
 
 <p align="center">
    <br>
