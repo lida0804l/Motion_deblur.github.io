@@ -4,6 +4,7 @@
 <br> 
 </p>
 
+<p align="center">
    <img src="Images/1_Demonstration.jpg" width="70%" height="70%">
 </p>
 
