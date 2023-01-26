@@ -1,5 +1,5 @@
 <br>
-<h1>Restoration of motion blur images</h1>
+<h1><strong>Restoration of motion blur images</strong></h1>
 <br>
 
 <p align="center">
