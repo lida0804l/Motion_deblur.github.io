@@ -50,7 +50,14 @@ Let's imagine we have a cell phone ready to take a photo shown in the right side
    <br>
 </p>
 
-# Image acquisition of motion object
+**Image acquisition of motion object** <br>
+In this case, let's suppose either the scene or the phone are going planar motion during the imaging process, each pixels of the camera would look through the scene 
+
+<p align="center">
+   <br>
+   <img src="Images/4_Formula_motion_object.jpg" width="70%" height="70%">
+   <br>
+</p>
 
 <p align="center">
    <br>
