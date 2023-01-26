@@ -42,6 +42,7 @@ In the previous we've finished specifying motion direction, and this step is for
 To illustrate the concept of motion deblur, we will go through how the image is generated for static and motion objects. <br>
 <br>
 **Image acquisition of static object** <br>
+Let's imagine we have a cell phone ready to take a photo shown in the right side of the graph, and both the scene and the phone are static which means for each pixels of the camera sensor would constantly look at the same spot of the scene during the entire exposure process, and the formulation for the imaging process is:
 
 <p align="center">
    <br>
