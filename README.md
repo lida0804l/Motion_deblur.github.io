@@ -7,14 +7,12 @@
 </p>
 
 # User interface
-## User interface
-### User interface
-#### User interface
-##### User interface
-###### User interface
-####### User interface
 
-**User interface**
+<p align="center">
+   <br>
+   <img src="Images/2_User_interface.jpg" width="70%" height="70%">
+   <br>
+</p>
 
 
 
