@@ -19,17 +19,17 @@ To click on "file->Open" to load    images (.jpg/.bmp/.png/.tif)
    <br>
 </p>
 
+**Step 2** 
+<br>
+To click on "Parameter setting->from graph"
 # User interface ROI and Motion direction
 
 <p align="center">
    <br>
-   <img src="Images/2_User_interface_ROI_and_Motion_direction.jpg" width="70%" height="70%">
+   <img src="Images/2_User_interface_ROI_and_Motion_direction_.jpg" width="70%" height="70%">
    <br>
 </p>
 
-**Step 2** 
-<br>
-To click on "file->Open" to load      images (.jpg/.bmp/.png/.tif)
 # Parameter adjustment and Result
 
 <p align="center">
