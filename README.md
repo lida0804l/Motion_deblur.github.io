@@ -1,12 +1,13 @@
 # Restoration of motion blur images
 
-	<font color=#FF0000>紅色</font>
-
 <p align="center">
    <br>
    <img src="Images/1_Demonstration.jpg" width="70%" height="70%">
    <br>
 </p>
+
+**User interface**
+
 
 <br>
 
