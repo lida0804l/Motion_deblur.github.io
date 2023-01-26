@@ -1,6 +1,6 @@
 # Restoration of motion blur images
 
-<img src="Images/1_Demonstration.jpg" width="350" height="350">
+<img src="Images/1_Demonstration.jpg">
 
 
 
