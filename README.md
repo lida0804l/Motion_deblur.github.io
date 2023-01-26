@@ -1,3 +1,8 @@
+<style>p{color:Red;}</style>
+<style>H1{color:Blue;}</style>
+<style>H2{color:Green;}</style>
+<style>p{color:Yellow;}</style>
+
 # Restoration of motion blur images
 
 <p align="center">
