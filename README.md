@@ -1,4 +1,4 @@
-<br>
+
 # Restoration of motion blur images
 <br>
 <p align="center">
