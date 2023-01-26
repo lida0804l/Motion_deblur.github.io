@@ -60,7 +60,7 @@ In this case, let's suppose either the scene or the phone are going planar motio
 </p>
 
 **Fourier transform** <br>
-Now things going intriguing if we transform the formula of motion imaging into frequency domain.
+Now things going intriguing if we transform the formula of motion imaging into frequency domain, the shifting term in side the expression has become multiplication term outside the function:
 
 <p align="center">
    <br>
