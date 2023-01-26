@@ -1,5 +1,5 @@
-
-# Restoration of motion blur images
+<br>
+<h1>Restoration of motion blur images</h1>
 <br>
 <p align="center">
   <img src="Images/1_Demonstration.jpg" width="70%" height="70%">
