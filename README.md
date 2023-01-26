@@ -1,8 +1,12 @@
 # Restoration of motion blur images
 
+<p align="center">
+  <br>
+  
 <img src="Images/1_Demonstration.jpg" width="350" height="350">
 
-
+  <br>
+</p>
 
 | Before      |After        |
 :-------------------------:|:-------------------------:
