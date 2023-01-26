@@ -31,11 +31,13 @@ In this stage, we need to specify both the direction of motion and the region of
    <br>
 </p>
 
-# Parameter adjustment and Result
+**Step 3.** Parameter adjustment and Result
+In the previous we've finished specifying motion direction, 
+In this stage, we need to specify both the direction of motion and the region of interest to be proecssed <br>
 
 <p align="center">
    <br>
-   <img src="Images/3_Parameter_adjustment_and_Result.jpg" width="70%" height="70%">
+   <img src="Images/3_Parameter_adjustment_and_Result_.jpg" width="70%" height="70%">
    <br>
 </p>
 
