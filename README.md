@@ -14,7 +14,7 @@
    <br>
 </p>
 
-# User interface
+# User interface ROI and Motion direction
 
 <p align="center">
    <br>
@@ -22,6 +22,13 @@
    <br>
 </p>
 
+# Parameter adjustment and Result
+
+<p align="center">
+   <br>
+   <img src="Images/3_Parameter_adjustment_and_Result.jpg" width="70%" height="70%">
+   <br>
+</p>
 
 
 
