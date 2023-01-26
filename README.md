@@ -9,8 +9,7 @@
 # User interface
 Here we have a user interface to perform motion deblur by the following steps:
 
-**Step 1.** Load image
-<br>
+**Step 1.** Load image <br>
 To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
 
 <p align="center">
@@ -19,8 +18,7 @@ To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
    <br>
 </p>
 
-**Step 2.** Specify motion direction and region of interest
-<br>
+**Step 2.** Specify motion direction and region of interest <br>
 In this stage, we need to specify both the direction of motion and the region of interest to be proecssed <br>
 (1) To click on "Edit->Parameter setting->from graph", and draw a line representing motion direction from graph <br>
 (2) To click on "Edit->ROI", and select region of interest from graph (This action was to facilitate processing speed) <br>
@@ -31,7 +29,7 @@ In this stage, we need to specify both the direction of motion and the region of
    <br>
 </p>
 
-**Step 3.** Parameter adjustment and Result
+**Step 3.** Parameter adjustment and Result <br>
 In the previous we've finished specifying motion direction, and this step is for fine adjustment of motion direction and the parameters affecting the restoration process, for readers interested in details of algorithm please go through the next chapter.
 
 <p align="center">
