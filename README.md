@@ -2,7 +2,7 @@
 
 <p h1 align="center">
 <br>
-   # Restoration of motion blur images
+    <h1>Restoration of motion blur images</h1>
 <br> 
 </p>
 
