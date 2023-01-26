@@ -110,6 +110,8 @@ Here let's specify a notation to the term of motion blur for notational simplici
    <br>
 </p>
 
+In practice we need to account for the additive noise during the imaging process, and wiener filter is designed for the situation that seeks to find minimum mean squared error between the restoration image and the actual image:
+
 <p align="center">
    <br>
    <img src="Images/12.jpg" width="70%" height="70%">
@@ -121,29 +123,3 @@ Here let's specify a notation to the term of motion blur for notational simplici
    <img src="Images/13.jpg" width="70%" height="70%">
    <br>
 </p>
-
-
-# User interface
-## User interface
-### User interface
-#### User interface
-##### User interface
-###### User interface
-####### User interface
-
-# **User interface**
-## **User interface**
-### **User interface**
-#### **User interface**
-##### **User interface**
-###### **User interface**
-####### User interface
-
-**User interface**
-
-
-| Before      |After        |
-:-------------------------:|:-------------------------:
-<img src="Images/1_Before.jpg" width="350" height="350"> | <img src="Images/1_After.jpg" width="350" height="350">
-
-  
