@@ -29,7 +29,7 @@ To click on "file->Open" to load images (.jpg/.bmp/.png/.tif)
 
 **Step 2** 
 <br>
-To click on "file->Open" to load images (.jpg/.bmp/.png/.tif)
+To click on "file->Open" to load      images (.jpg/.bmp/.png/.tif)
 # Parameter adjustment and Result
 
 <p align="center">
