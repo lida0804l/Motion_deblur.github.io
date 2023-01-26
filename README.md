@@ -17,12 +17,7 @@
 **User interface**
 
 
-<br>
 
-123 rgb(9, 105, 218)
-123
-
-123
 
 <br>
 <h1><strong>Restoration of motion blur images</strong></h1>
@@ -30,8 +25,23 @@
 Restoration of motion blur images
 <br>
 
+# User interface
+## User interface
+### User interface
+#### User interface
+##### User interface
+###### User interface
+####### User interface
 
+# **User interface**
+## **User interface**
+### **User interface**
+#### **User interface**
+##### **User interface**
+###### **User interface**
+####### User interface
 
+**User interface**
 
 
 | Before      |After        |
