@@ -11,7 +11,7 @@ Here we have a user interface to perform motion deblur by the following steps:
 
 **Step 1.** Load image
 <br>
-To click on "file->Open" to load    images (.jpg/.bmp/.png/.tif)
+To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
 
 <p align="center">
    <br>
@@ -21,8 +21,9 @@ To click on "file->Open" to load    images (.jpg/.bmp/.png/.tif)
 
 **Step 2** 
 <br>
-To click on "Parameter setting->from graph"
-# User interface ROI and Motion direction
+In this stage, we need to assign the both the direction of motion and the region of interest to be proecssed from graph
+(1) To click on "Edit->Parameter setting->from graph", and draw a line representing motion direction from graph
+(2) To click on "Edit->ROI", and select region of interest from graph (This action was to facilitate processing speed)
 
 <p align="center">
    <br>
