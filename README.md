@@ -42,18 +42,58 @@
 
 <p align="center">
    <br>
-   <img src="Images/4_Formula_motion_object.jpg" width="70%" height="70%">
+   <img src="Images/5.jpg" width="70%" height="70%">
    <br>
 </p>
 
+<p align="center">
+   <br>
+   <img src="Images/6.jpg" width="70%" height="70%">
+   <br>
+</p>
 
+<p align="center">
+   <br>
+   <img src="Images/7.jpg" width="70%" height="70%">
+   <br>
+</p>
 
+<p align="center">
+   <br>
+   <img src="Images/8.jpg" width="70%" height="70%">
+   <br>
+</p>
 
-<br>
-<h1><strong>Restoration of motion blur images</strong></h1>
-<strong>Restoration of motion blur images</strong>
-Restoration of motion blur images
-<br>
+<p align="center">
+   <br>
+   <img src="Images/9.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+<p align="center">
+   <br>
+   <img src="Images/10.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+<p align="center">
+   <br>
+   <img src="Images/11.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+<p align="center">
+   <br>
+   <img src="Images/12.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+<p align="center">
+   <br>
+   <img src="Images/13.jpg" width="70%" height="70%">
+   <br>
+</p>
+
 
 # User interface
 ## User interface
