@@ -30,6 +30,23 @@
    <br>
 </p>
 
+# Image acquisition of static object
+
+<p align="center">
+   <br>
+   <img src="Images/4_Formula_static_object.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+# Image acquisition of motion object
+
+<p align="center">
+   <br>
+   <img src="Images/4_Formula_motion_object.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+
 
 
 <br>
