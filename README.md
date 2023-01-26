@@ -38,7 +38,9 @@ In the previous we've finished specifying motion direction, and this step is for
    <br>
 </p>
 
-# Image acquisition of static object
+# Implementation
+To have understand the concept of motion deblur, we need to understand the factors affecting formation of image. <br>
+**Image acquisition of static object**
 
 <p align="center">
    <br>
