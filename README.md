@@ -1,14 +1,7 @@
 <br>
 <h1><strong>Restoration of motion blur images</strong></h1>
-<br>
- 
-      
-      
-      
-
-
-# Restoration of motion blur images
-
+<br> 
+   
 <p align="center">
   <img src="Images/1_Demonstration.jpg" width="70%" height="70%">
 </p>
