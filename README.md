@@ -27,7 +27,7 @@ In this stage, we need to assign the both the direction of motion and the region
 
 <p align="center">
    <br>
-   <img src="Images/2_User_interface_ROI_and_Motion_direction_.jpg" width="70%" height="70%">
+   <img src="Images/2_User_interface_ROI_and_Motion_direction.jpg" width="70%" height="70%">
    <br>
 </p>
 
