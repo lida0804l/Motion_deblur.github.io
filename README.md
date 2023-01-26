@@ -59,6 +59,9 @@ In this case, let's suppose either the scene or the phone are going planar motio
    <br>
 </p>
 
+**Fourier transform** <br>
+Now things going intriguing if we transform the formula of motion imaging into frequency domain.
+
 <p align="center">
    <br>
    <img src="Images/5.jpg" width="70%" height="70%">
