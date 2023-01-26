@@ -17,6 +17,7 @@
 <br>
 <h1><strong>Restoration of motion blur images</strong></h1>
 <strong>Restoration of motion blur images</strong>
+Restoration of motion blur images
 <br>
 
 
