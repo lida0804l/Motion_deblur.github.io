@@ -51,7 +51,7 @@ Let's imagine we have a cell phone ready to take a photo shown in the right side
 </p>
 
 **Image acquisition of motion object** <br>
-In this case, let's suppose either the scene or the phone are going planar motion during the imaging process, each pixels of the camera would look through the scene 
+In this case, let's suppose either the scene or the phone are going planar motion during the imaging process, each pixels of the camera would integrate through the scene along the trajectory of motion during the exposure process illustrated in the following figure: 
 
 <p align="center">
    <br>
