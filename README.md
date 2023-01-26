@@ -32,8 +32,7 @@ In this stage, we need to specify both the direction of motion and the region of
 </p>
 
 **Step 3.** Parameter adjustment and Result
-In the previous we've finished specifying motion direction, 
-In this stage, we need to specify both the direction of motion and the region of interest to be proecssed <br>
+In the previous we've finished specifying motion direction, and this step is for fine adjustment of motion direction and the parameters affecting the restoration process, for readers interested in details of algorithm please go through the next chapter.
 
 <p align="center">
    <br>
