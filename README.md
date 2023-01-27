@@ -1,5 +1,5 @@
 # Restoration of motion blur images
-This project is inspired by Chapter 5 in "Digital Image Processing 3th edition", the first time I finish reading this chapter I feel like motion deblur is an amazing technich that I should definitely implement it, and is actually the case since I found this help a lot for the need to identify license plate of a fast moving car, since the restoration process is completely explainable this would also help in political usages.
+This project is inspired by Chapter 5 in "Digital Image Processing 3th edition", the first time I finish reading this chapter I feel like motion deblur is an amazing technique that I should definitely implement it, and is actually the case since I found this help a lot for the need to identify license plate of a fast moving car, since the restoration process is completely explainable this would also help in political usages.
 
 
 <p align="center">
