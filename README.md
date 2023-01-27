@@ -12,7 +12,7 @@ This project is inspired by Chapter 5 "Digital Image Processing 3th edition", th
 Here we have a user interface to perform motion deblur by the following steps:
 
 **Step 1.** Load image <br>
-To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
+To click on "File->Open" to load image (.jpg/.bmp/.png/.tif)
 
 <p align="center">
    <br>
